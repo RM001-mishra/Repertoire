@@ -1,0 +1,13 @@
+# Python program to find duplicate items in list
+
+# take list
+my_list = [1, 3, 7, 1, 2, 7, 5, 3, 8, 1]
+
+# printing original list
+print('List:', my_list)
+
+# find duplicate items using slicing + in operator
+duplicate_item = [x for i, x in enumerate(my_list) if x in my_list[:i]]
+
+# printing duplicate elements
+print('Duplicate Elements:', duplicate_item)
