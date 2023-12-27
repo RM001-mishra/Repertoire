@@ -1,0 +1,18 @@
+Category,Type of inference,Description,Inference
+Career inferences,Small or medium sized business owner,"Based on your current company on your profile, your job title, and other factors.",No
+Career inferences,Human resources professional,Based on factors such as your industry and profile headline.,No
+Career inferences,Growth stage of career,Based on factors such as your industry and experience on your profile.,No
+Career inferences,Recruiter,Based on factors such as your experience and profile headline.,No
+Career inferences,Student,Based on your education on your profile and other factors.,No
+Career inferences,Sales professional,Based on factors such as your experience and profile headline.,No
+Career inferences,People leader,People leader at your company. Based on your experience on your profile and other factors.,No
+Career inferences,Early stage of career,Early stage of career but not a student. Based on factors such as your industry and experience on your profile.,No
+Career inferences,Job seeker,Based on your activity on LinkedIn and other factors.,No
+Career inferences,Senior leader,Executive leader at your company. Based on your experience on your profile and other factors.,No
+Inferred interests,Interested in oil and energy industry,Based on whether you follow companies in the oil and energy industry.,true
+Inferred interests,Interested in higher education,Based on whether you follow companies in the higher education industry.,true
+Inferred personal characteristics,Inferred birth year,Based on the years of experience on your profile and other factors.,2001
+Inferred personal characteristics,Inferred gender,Based on your first name and other factors.,MALE
+Job search inferences,Interested in a new job,Based on whether you searched for a job or clicked on a posting in the past 30 days.,true
+LinkedIn Sales Solutions (LSS) inferences,Interested in Sales Navigator product in Latin America,"Likely to fill out a Contact me sheet to purchase Sales Navigator and living in Latin America. Based on factors such as your location, experience, and industry on your profile.",true
+LinkedIn Sales Solutions (LSS) inferences,Interested in Sales Navigator product in North America,"Likely to fill out a Contact me sheet to purchase Sales Navigator and living in North America. Based on factors such as your location, experience, and industry on your profile.",true
